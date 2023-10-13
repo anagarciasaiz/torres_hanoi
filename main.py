@@ -1,5 +1,4 @@
 from pilaHanoy import Pila
-from pilaHanoy import Pila
 
 def tablero(n):
     torre1 = Pila()
